@@ -847,7 +847,7 @@ section,
   color: rgba(var(--default-color-rgb), 0.8);
   margin: 5px 0 0 0;
   font-size: 20px;
-  text-align: end;
+  
 }
 
 .hero .sign-up-form {
@@ -2946,5 +2946,17 @@ section,
     
     height: 700px;
 
+  
+
   }
 }
+@media (min-width: 768px) {
+  
+
+  .wml {
+    margin-left: 180px;
+  }
+
+  }
+
+
